@@ -9,7 +9,7 @@ Este proyecto es un conjunto de microservicios desarrollados con Spring Boot. In
 
 ## Acceso a la documentación de Swagger:
 
--CrudProducts: http://localhost:8083/swagger-ui/index.html
--CrudOrders: http://localhost:8082/swagger-ui/index.html
+-CrudProducts: http://localhost:8083/swagger-ui/index.html.
+-CrudOrders: http://localhost:8082/swagger-ui/index.html.
 
 
